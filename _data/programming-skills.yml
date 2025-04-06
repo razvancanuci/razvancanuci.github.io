@@ -1,0 +1,15 @@
+- name: C#
+  percentage: 80
+  color: info
+
+- name: Typescript
+  percentage: 80
+  color: info
+
+- name: Rust
+  percentage: 60
+  color: warning
+
+- name: Python
+  percentage: 60
+  color: warning

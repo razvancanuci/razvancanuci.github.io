@@ -1,0 +1,63 @@
+### Site Settings ###
+title               : Razvan Canuci
+description         : Welcome to my personal website! 👋
+baseurl             : ""            
+repository          : razvancanuci/razvancanuci.github.io
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : true       
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:        
+  - pages/tags.html                                  
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Razvan Canuci
+  image             : https://media.licdn.com/dms/image/v2/D4D03AQFhTsl5q7vjxw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1679859971753?e=1749081600&v=beta&t=fi1oROuGqygzD_2QoIzimmqfn8rIMuH79jws8-BjGZU
+  github            : razvancanuci
+  linkedin          : razvan-canuci
+  medium            : razvan.canuci
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                         
+  google:
+    tracking_id: G-F4E6ST0S6E
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
