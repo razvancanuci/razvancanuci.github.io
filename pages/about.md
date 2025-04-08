@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-🚀 I am a passionate software engineer with experience in designing, developing, and optimizing scalable applications. I specialize in full-stack and backend development, working with modern technologies to build efficient and high-performing systems.
+🚀 I am an experienced and very adaptable software engineer in designing, developing, and optimizing scalable applications. I specialize in full-stack and backend development, working with modern technologies to build efficient and high-performing systems.
 
 Always learning and exploring new technologies to stay ahead in the industry. 🚀
 
