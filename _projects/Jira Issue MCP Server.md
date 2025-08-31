@@ -1,5 +1,5 @@
 ---
-name: JIRA Isseue MCP Server
+name: JIRA Issue MCP Server
 tools: [Typescript, Oauth2, MCP, Redis, AI, JIRA]
 image: 
 description: An MCP Server to create JIRA tickets, integrated with SSO and Redis for storage.
