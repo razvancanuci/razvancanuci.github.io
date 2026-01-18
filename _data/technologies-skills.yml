@@ -22,6 +22,14 @@
   percentage: 70
   color: info
 
+- name: Docker
+  percentage: 70
+  color: warning
+
+- name: CI/CD
+  percentage: 70
+  color: warning
+
 - name: AI
   percentage: 60
   color: warning
