@@ -7,6 +7,7 @@ tools:
     Python,
     FastAPI,
     Langchain,
+    Langsmith,
     Redis,
     PostgreSQL,
     DynamoDB,
